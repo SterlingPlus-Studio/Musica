@@ -1,1 +1,44 @@
-g
+[
+  {
+    "id": "track_01",
+    "title": "Ambient Lights",
+    "artist": "SterlingPlus Studio",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "cover": ""
+  },
+  {
+    "id": "track_02",
+    "title": "Neon Sky",
+    "artist": "SterlingPlus Studio",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "cover": ""
+  },
+  {
+    "id": "track_03",
+    "title": "Night Drive",
+    "artist": "SterlingPlus Studio",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+    "cover": ""
+  },
+  {
+    "id": "track_04",
+    "title": "Blue Horizon",
+    "artist": "SterlingPlus Studio",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+    "cover": ""
+  },
+  {
+    "id": "track_05",
+    "title": "City Pulse",
+    "artist": "SterlingPlus Studio",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+    "cover": ""
+  },
+  {
+    "id": "track_06",
+    "title": "Soft Motion",
+    "artist": "SterlingPlus Studio",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+    "cover": ""
+  }
+]

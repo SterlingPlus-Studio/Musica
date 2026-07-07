@@ -1,3 +1,11 @@
-[
-  "https://www.soundhelix.com/examples/mp3/MONTAGEM.mp3",
-]
+{
+  "repo": "SterlingPlus-Studio/Musica",
+  "folder": "https://github.com/SterlingPlus-Studio/Musica/tree/main/Musica",
+  "rawBase": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/",
+  "music": [
+    {
+      "title": "MONTAGEM",
+      "url": "https://github.com/SterlingPlus-Studio/Musica/blob/main/Musica/MONTAGEM.mp3"
+    }
+  ]
+}

@@ -1,6 +1,10 @@
 [
     {
-        "title": "Mi canción 1",
+        "title": "MONTAGEM",
         "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/MONTAGEM.mp3"
+    },
+    {
+        "title": "NOOTFUNK",
+        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/NOOTFUNK.mp3"
     }
 ]

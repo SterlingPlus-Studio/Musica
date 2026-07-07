@@ -2,13 +2,5 @@
     {
         "title": "Mi canción 1",
         "file": "https://github.com/SterlingPlus-Studio/Musica/blob/main/Musica/MONTAGEM.mp3"
-    },
-    {
-        "title": "Mi canción 2",
-        "file": "cancion2.mp3"
-    },
-    {
-        "title": "Mi canción 3",
-        "file": "cancion3.mp3"
     }
 ]

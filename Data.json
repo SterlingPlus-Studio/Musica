@@ -1,34 +1,42 @@
 [
     {
         "title": "Montagem",
-        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/MONTAGEM.mp3"
+        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/MONTAGEM.mp3",
+        "icon": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Icono/MONTAGEM.png"
     },
     {
         "title": "Ma Meilleure Ennemie",
-        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/Ma Meilleure Ennemie.mp3"
+        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/Ma Meilleure Ennemie.mp3",
+        "icon": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Icono/Ma Meilleure Ennemie.png"
     },
     {
         "title": "Name Back Jumpstyle",
-        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/Name Back Jumpstyle.mp3"
+        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/Name Back Jumpstyle.mp3",
+        "icon": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Icono/Name Back Jumpstyle.png"
     },
     {
         "title": "Raindance X Let Me Love You",
-        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/Raindance X Let Me Love You.mp3"
+        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/Raindance X Let Me Love You.mp3",
+        "icon": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Icono/Raindance X Let Me Love You.png"
     },
     {
         "title": "Don t Copy My Flow",
-        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/Don t Copy My Flow.mp3"
+        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/Don t Copy My Flow.mp3",
+        "icon": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Icono/Don t Copy My Flow.png"
     },
     {
         "title": "Melodia Cavalgada",
-        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/MELODIACAVALGADA.mp3"
+        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/MELODIACAVALGADA.mp3",
+        "icon": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Icono/MELODIACAVALGADA.png"
     },
     {
         "title": "Bounce Savage",
-        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/BounceSavage.mp3"
+        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/BounceSavage.mp3",
+        "icon": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Icono/BounceSavage.png"
     },
     {
         "title": "Nootfunk",
-        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/NOOTFUNK.mp3"
+        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/NOOTFUNK.mp3",
+        "icon": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Icono/NOOTFUNK.png"
     }
 ]

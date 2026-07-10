@@ -5,6 +5,11 @@
         "icon": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Icono/Ransom.png"
     },
     {
+        "title": "Ebrio",
+        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/Ebrio.mp3",
+        "icon": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Icono/Ebrio.png"
+    },
+    {
         "title": "Con Altura",
         "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/Con Altura.mp3",
         "icon": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Icono/Con Altura.png"

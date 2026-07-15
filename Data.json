@@ -5,6 +5,11 @@
         "icon": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Icono/Puta Mexicana.png"
     },
     {
+        "title": "Bailando",
+        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/Bailando.mp3",
+        "icon": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Icono/Bailando.png"
+    },
+    {
         "title": "Ransom",
         "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/Ransom.mp3",
         "icon": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Icono/Ransom.png"

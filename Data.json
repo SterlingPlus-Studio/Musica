@@ -1,4 +1,10 @@
 [
+    
+    {
+        "title": "Montero",
+        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/Montero.mp3",
+        "icon": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Icono/Montero.png"
+    },
     {
         "title": "Matadora",
         "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/Matadora.mp3",

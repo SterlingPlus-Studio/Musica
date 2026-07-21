@@ -1,5 +1,9 @@
 [
-    
+    {
+        "title": "Matadora",
+        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/Matadora.mp3",
+        "icon": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Icono/Matadora.png"
+    },
     {
         "title": "Bang",
         "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/Bang.mp3",

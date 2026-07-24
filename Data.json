@@ -1,5 +1,14 @@
 [
-    
+    {
+        "title": "ela giro",
+        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/ela giro.mp3",
+        "icon": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Icono/ela giro.png"
+    },
+    {
+        "title": "montagem game",
+        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/montagem game.mp3",
+        "icon": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Icono/montagem game.png"
+    },
     {
         "title": "Montero",
         "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/Montero.mp3",

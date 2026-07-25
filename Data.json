@@ -1,5 +1,15 @@
 [
     {
+        "title": "Hola Señorita",
+        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/Hola Señorita.mp3",
+        "icon": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Icono/Hola Señorita.png"
+    },
+    {
+        "title": "La Playa",
+        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/La Playa.mp3",
+        "icon": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Icono/La Playa.png"
+    },
+    {
         "title": "ela giro",
         "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/ela giro.mp3",
         "icon": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Icono/ela giro.png"

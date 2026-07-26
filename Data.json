@@ -1,5 +1,10 @@
 [
     {
+        "title": "Immortals",
+        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/Immortals.mp3",
+        "icon": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Icono/Immortals.png"
+    },
+    {
         "title": "Hola Señorita",
         "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/Hola Señorita.mp3",
         "icon": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Icono/Hola Señorita.png"

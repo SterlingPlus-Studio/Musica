@@ -1,4 +1,9 @@
 [
+    {
+        "title": "La Canción",
+        "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/La Canción.m4a",
+        "icon": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Icono/La Canción.png"
+    },
    {
         "title": "Montagem Delírio",
         "file": "https://raw.githubusercontent.com/SterlingPlus-Studio/Musica/main/Musica/Montagem Delírio.m4a",
